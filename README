@@ -1,0 +1,18 @@
+Titanium Module for:
+1. taking photo of business card
+2. compressing image using https://github.com/appcelerator-modules/ti.imagefactory
+3. extraction of info from .jpg throug CamCard REST API https://dev.camcard.com/
+4. Parsing of .vcf into json
+
+
+----------------------------------
+Stuff our legal folk make us say:
+
+Appcelerator, Appcelerator Titanium and associated marks and logos are 
+trademarks of Appcelerator, Inc. 
+
+Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
+
+Titanium is licensed under the Apache Public License (Version 2). Please
+see the LICENSE file for the full license.
+
